@@ -33,7 +33,7 @@
 
 1. On the left side of the screen, click **+ Create a resource**, and then click **Web App**. The **App Name** and **Resource Group** boxes and **App Service Plan/Location** appear on the right side of the screen.
 
-![image-20201220225437288](https://github.com/JuanjoSalva/Cloud-Computing/blob/main/image-20201220225437288.png)
+![image-20201220225437288](https://github.com/JuanjoSalva/Cloud-Computing/blob/main/web_app_1.PNG)
 
 
 
